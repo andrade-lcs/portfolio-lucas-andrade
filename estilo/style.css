@@ -25,6 +25,11 @@ h2 {
     color: rgb(33, 82, 5);
 }
 
+p.formatado{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 img.logo {
     float: left;
     max-width: 20px;
