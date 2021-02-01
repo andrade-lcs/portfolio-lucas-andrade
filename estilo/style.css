@@ -3,6 +3,10 @@
     font-size: 16px;
 }
 
+header {
+    height:100px   
+}
+
 body {
     background-color: rgb(7, 148, 7);
 }
