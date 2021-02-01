@@ -4,7 +4,7 @@
 }
 
 header {
-    height:100px   
+    height:auto;
 }
 
 body {
@@ -19,6 +19,10 @@ main {
     box-shadow: 3px 3px 5px black;
 }
 
+main.direito {
+    background-color:lightgray;
+}
+
 h1 {
     font-size: 2em;
     color: rgb(33, 82, 5);
@@ -29,12 +33,17 @@ h2 {
     color: rgb(33, 82, 5);
 }
 
-p.formatado{
+p.formatado {
     text-align: justify;
     text-justify: inter-word;
 }
 
-img.foto{
+p.direito {
+    font-size: 12px;
+}
+
+
+img.foto {
     max-width: 100px;
     max-height: 100px;
     float: right;
@@ -48,7 +57,7 @@ img.logo {
     height: auto;
 }
 
-div.menu_lateral{
+div.menu_lateral {
     background-color: white;
     float: left;
     text-align: left;
@@ -66,5 +75,5 @@ a {
 
 a:hover {
     text-decoration: underline;
-    color:darkblue
+    color:darkblue;
 }
