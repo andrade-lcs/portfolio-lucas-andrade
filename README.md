@@ -1,2 +1,2 @@
 # portfolio-lucas-andrade
- Este projeot ira reunir as informações profissionais do eng. Lucas Andrade
+ Este projeto se destina em reunir as informações profissionais do eng. Lucas Andrade
